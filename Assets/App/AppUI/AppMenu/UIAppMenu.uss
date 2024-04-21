@@ -1,0 +1,26 @@
+.mainmenu-button {
+    flex-grow: 1;
+    -unity-font-style: normal;
+    flex-shrink: 1;
+    background-image: url("project://database/Assets/App/PopupService/Popups/Keyboard/Textures/Button_Red.png?fileID=2800000&guid=b8864cb2d62884aad8bb6f9d54ca475f&type=3#Button_Red");
+    text-shadow: -1px 1px 0 rgba(0, 0, 0, 0.22);
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0);
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    font-size: 72px;
+    width: auto;
+    height: auto;
+    -unity-background-scale-mode: scale-to-fit;
+    -unity-text-align: middle-center;
+    align-items: auto;
+    justify-content: center;
+    align-self: auto;
+    text-overflow: clip;
+    white-space: nowrap;
+    -unity-font: url("project://database/Assets/App/Common/UI/Fonts/SputnikDisplay.otf?fileID=12800000&guid=d4bc0ca46d6d4420bb4a810af688da33&type=3#SputnikDisplay");
+    -unity-font-definition: initial;
+}

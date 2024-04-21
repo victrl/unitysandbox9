@@ -1,0 +1,27 @@
+{
+  "common.hello": {
+    "EN": "Hello",
+    "RU": "Привет",
+    "DE": null
+  },
+  "common.menu.title": {
+    "EN": "Menu",
+    "RU": "Меню!",
+    "DE": null
+  },
+  "common.menu.message": {
+    "EN": "Message",
+    "RU": "Сообщение",
+    "DE": null
+  },
+  "common.menu.message2": {
+    "EN": "Message2",
+    "RU": "Сообщение2",
+    "DE": null
+  },
+  "common.menu.message3": {
+    "EN": "Message3",
+    "RU": "Сообщение3",
+    "DE": null
+  }
+}

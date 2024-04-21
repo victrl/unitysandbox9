@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 58c24f9b255e149149a70a0f9ad20467
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - animator: {instanceID: 0}
+  - openClip: {fileID: 7400000, guid: 9a7db4e028b374b9d9f6a9e0ddb93ef8, type: 2}
+  - closeClip: {fileID: 7400000, guid: 9c9d7ea1b053b4bd7808fac517f6d6b7, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

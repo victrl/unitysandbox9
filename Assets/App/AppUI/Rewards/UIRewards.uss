@@ -1,0 +1,21 @@
+.rewards-labels {
+    -unity-font: url("project://database/Assets/App/Common/UI/Fonts/SputnikDisplay.otf?fileID=12800000&guid=d4bc0ca46d6d4420bb4a810af688da33&type=3#SputnikDisplay");
+    -unity-font-style: normal;
+    font-size: 42px;
+    -unity-font-definition: initial;
+    color: rgb(255, 255, 255);
+    text-shadow: 4px 4px 0 rgb(0, 0, 0);
+    -unity-text-outline-color: rgba(0, 0, 0, 0);
+}
+
+.rewards-counts {
+    -unity-font: url("project://database/Assets/App/Common/UI/Fonts/SputnikDisplay.otf?fileID=12800000&guid=d4bc0ca46d6d4420bb4a810af688da33&type=3#SputnikDisplay");
+    -unity-font-style: normal;
+    left: 0;
+    font-size: 42px;
+    white-space: nowrap;
+    -unity-text-align: upper-left;
+    -unity-font-definition: initial;
+    color: rgb(255, 255, 255);
+    text-shadow: 4px 4px 0 rgb(0, 0, 0);
+}

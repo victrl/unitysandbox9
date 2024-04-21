@@ -1,0 +1,13 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/App/AppUI/Rewards/UIRewards.uss?fileID=7433441132597879392&amp;guid=afcc7e23419ec47cdb46c19b78d0f8e7&amp;type=3#UIRewards" />
+    <ui:VisualElement name="Rewards" picking-mode="Ignore" style="flex-grow: 1; flex-direction: row; padding-left: 20px; padding-top: 10px; visibility: visible; overflow: hidden;">
+        <ui:VisualElement name="RewardsLabels" picking-mode="Ignore" style="flex-grow: 0; align-items: flex-start; flex-shrink: 0;">
+            <ui:Label tabindex="-1" text="Coins" parse-escape-sequences="true" display-tooltip-when-elided="true" name="CoinsLabel" picking-mode="Ignore" class="rewards-labels" />
+            <ui:Label tabindex="-1" text="Crystals" parse-escape-sequences="true" display-tooltip-when-elided="true" name="CrystalsLabel" picking-mode="Ignore" class="rewards-labels" />
+        </ui:VisualElement>
+        <ui:VisualElement name="RewardsCounts" picking-mode="Ignore" style="flex-grow: 1; align-items: flex-start; padding-left: 20px;">
+            <App.AppUI.Rewards.UIRewardsCountLabel text="coins" picking-mode="Ignore" name="CoinsCount" class="rewards-counts" style="width: 56px;" />
+            <App.AppUI.Rewards.UIRewardsCountLabel rewards-type="Crystals" text="crystals" picking-mode="Ignore" name="CrystalsCount" class="rewards-counts" style="width: 60px;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

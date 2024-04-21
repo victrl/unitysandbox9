@@ -1,0 +1,6 @@
+[
+  {
+    "Type": "App.Core.Meta.RewardSaveComponent",
+    "Data": "{\"Coins\":0}"
+  }
+]

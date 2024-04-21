@@ -70,3 +70,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+.idea/.idea.Numik/.idea/riderModule.iml
+.idea/.idea.Numik/riderModule.iml
+.idea/.idea.Numik/.idea/indexLayout.xml
+.idea

@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/App/UITK/MainMenu/MainMenu.uss?fileID=7433441132597879392&amp;guid=5dbf0dd1e3f514a0a9f7b1b15a30a19e&amp;type=3#MainMenu" />
+    <ui:VisualElement name="Background" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/App/GameMenu/Textures/background_1screen.jpg?fileID=2800000&amp;guid=6de59036f2e634275a2ba13ab54c4094&amp;type=3#background_1screen&quot;); position: relative; align-items: auto; width: 100%; height: 100%;">
+        <ui:VisualElement style="flex-grow: 1; justify-content: center; background-color: rgba(0, 0, 0, 0); align-items: stretch; align-self: center; flex-direction: row; padding-top: 10%; padding-bottom: 10%; padding-right: 10%; padding-left: 10%;">
+            <ui:Button text="Play!" parse-escape-sequences="true" display-tooltip-when-elided="true" name="PlayButton" class="mainmenu-button" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

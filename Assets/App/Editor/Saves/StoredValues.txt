@@ -1,0 +1,4 @@
+{
+    "RewardsCoins": "1414",
+    "RewardsCrystals": "313"
+}
