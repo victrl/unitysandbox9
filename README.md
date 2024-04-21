@@ -15,11 +15,11 @@ Used
 ---
 - Unity 2022
 - DOTS (Entities, Jobs, Burst)
-- UI Toolkit
 - Zenject
 - UniTask
 - DOTween
-- Unity Localization
+- UI Toolkit
+- Localization
 
 Implemented
 ---
